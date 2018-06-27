@@ -2,7 +2,7 @@
 
 Simple Tetris game originaly for PalmOS modified to run  in Browser:
 
-[Screenshot](https://github.com/Pooky/Tetris/blob/master/screenshot.png)
+[Screenshot](https://raw.githubusercontent.com/Pooky/Tetris/master/screenshot.png)
 
 Links: 
 * Live demo: http://playground.pooky.cz/Tetris
