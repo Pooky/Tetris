@@ -4,6 +4,7 @@ enyo.kind({
   name: "main",
   kind: enyo.VFlexBox,
   canvas: null,
+  className: "container",
   create: function(){
     
       this.inherited(arguments);

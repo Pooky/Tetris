@@ -1,12 +1,8 @@
-#main{
+.container{
     width: 800px;
     margin: auto;
 }
 
-#aboutAuthor, #highScore{
-    width: 800px;
-    margin: auto;
-}
 .about-layout{
     position: absolute;
     top: 100px;

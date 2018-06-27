@@ -1,6 +1,7 @@
 enyo.kind({
    name: "HighScore",
    kind: enyo.VFlexBox,
+   className: "container",
    data: [],
    components: [
       {kind: enyo.Header, content: "HighScore"},
