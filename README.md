@@ -1,8 +1,10 @@
 # Tetris
 
- Simple Tetris game originaly for PalmOS modified to run  in Browser:
+Simple Tetris game originaly for PalmOS modified to run  in Browser:
 
-Live demo: http://playground.pooky.cz/Tetris
+[Screenshot](https://github.com/Pooky/Tetris/screenshot.png)
 
-Original repository: https://github.com/Pooky/webos-tetris
+Links: 
+* Live demo: http://playground.pooky.cz/Tetris
+* Original repository: https://github.com/Pooky/webos-tetris
 
