@@ -1,0 +1,56 @@
+.canvas{
+    background-color: green;
+}
+.canvas h1{
+    text-align: center;
+    color: white;
+}
+.canvas-grid
+{
+    margin: auto;
+    width: 410px;
+    height: 410px;
+    border-right: 1pt gray solid;
+    border-bottom: 1pt gray solid;
+    clear:both;
+    margin-top: 40px;
+}
+.canvas .go-back a{
+    color: white;
+    text-align: center;
+}
+.row
+{
+    float: left;
+    border-top: 1pt gray solid;
+
+}
+.cell
+{
+    float: left;
+    border-left: 1pt gray solid;
+    width: 40px;
+    height: 40px;     
+    white-space: nowrap;
+}
+.game-over
+{
+  font-family: "Verdana";
+  text-align: center;
+  font-size: 28pt;
+  color: red;
+  font-weight: bold;
+}
+.controls{
+   padding-top: 410px;
+}
+.controls .controlBox{
+    margin-top: 10px;
+    margin-left: 40px;
+}
+.controls .controlBox .enyo-button{
+    font-size: 12px;
+}
+.score{
+    padding-top: 450px;
+}

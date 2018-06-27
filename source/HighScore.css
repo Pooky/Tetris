@@ -1,0 +1,22 @@
+.list {
+	background-color: white;
+}
+
+.item {
+	padding: 12px;
+	border: none;
+}
+
+.item-score {
+	
+     padding-right: 25px;
+     padding-top: 10px;
+	text-align: right;
+}
+
+.item-nickname {
+	color: #6060B0;
+	font-style: italic;
+     font-size: 18pt;
+	padding: 12px 0px 4px;
+}

@@ -1,0 +1,20 @@
+[
+	{
+		"table": "highscore",
+		"columns": [
+			{ 
+				"column": "id",
+				"type": "INTEGER",
+				"constraints": ["PRIMARY KEY"]
+			},
+			{
+				"column": "nickname",
+				"type": "TEXT"
+			},
+			{
+				"column": "score",
+				"type": "INTEGER"
+			}
+		]
+	}
+]

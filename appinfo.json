@@ -1,0 +1,10 @@
+{
+	"id": "com.yourdomain.tetris",
+	"version": "1.0.0",
+	"vendor": "Pooky Development a.s",
+	"type": "web",
+	"main": "index.html",
+	"title": "Tetris",
+	"icon": "icon.png",
+	"uiRevision":2
+}
